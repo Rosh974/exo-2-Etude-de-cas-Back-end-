@@ -5,13 +5,15 @@ const app = express();
 
 
 
+
 app.get('/', function (req, res) {
   res.sendFile(__dirname + '/index.html')
 })
 
-app.get('/liste.js', function (req, res) {
-  res.sendFile(__dirname + 'js/liste.js')
-})
+
+app.use('/static', express.static(__dirname + '/public'));
+
+
 
 app.get('/liste', function (req, res) {
   res.sendFile(__dirname + 'js/data.json')
