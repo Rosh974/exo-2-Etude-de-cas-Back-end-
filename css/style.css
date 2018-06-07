@@ -3,3 +3,19 @@
     background-color:rgb(24, 24, 24);
 
 }
+
+.text-center{
+
+    width: auto;
+    height: 50rem;
+    
+
+}
+
+.compt{
+
+    display: flex;
+    justify-content: center;
+    
+
+}

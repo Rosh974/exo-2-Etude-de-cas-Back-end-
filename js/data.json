@@ -1,18 +1,19 @@
+
 [
+
     {
-        "_id": "5b150d3becf6912664355da5",
-        "index": 0,
+        "_id": "#l",
         "competences": {
-            "HTML5": "5",
-            "Ruby": "0",
-            "CSS3": "4",
-            "JavaScript": "2",
-            "Vala": "0",
-            "JQuery": "2",
-            "Python": "0",
-            "PHP": "0",
-            "Bootstrap": "3",
-            "Squirrel": "0"
+            "HTML5": "f005*5",
+            "Ruby": "f005*5",
+            "CSS3": "f005*5",
+            "JavaScript": "f005*5",
+            "Vala": "f005*5",
+            "JQuery": "f005*5",
+            "Python": "f005*5",
+            "PHP": "f005*5",
+            "Bootstrap": "f005*5",
+            "Squirrel": "f005*5"
         }
     }
 ]
