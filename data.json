@@ -1,0 +1,35 @@
+
+[
+    {
+        "competence" : "HTML5",
+        "niveau" :4
+    }, {
+        "competence" : "Python",
+        "niveau" :0
+    }, {
+        "competence" : "Bootstrap",
+        "niveau" :3
+    }, {
+        "competence" : "Ruby",
+        "niveau" :0
+    }, {
+        "competence" : "CSS3",
+        "niveau" :3
+    }, {
+        "competence" : "Simphony",
+        "niveau" :0
+    }, {
+        "competence" : "JavaScript",
+        "niveau" :2
+    }, {
+        "competence" : "JQuery",
+        "niveau" :2
+    }, {
+        "competence" : "Angular",
+        "niveau" :0
+    }, {
+        "competence" : "React",
+        "niveau" :0
+    }
+
+]
